@@ -1,5 +1,19 @@
-# top_ru_domains_nameservers_list
-Top nameservers in Russia used by RU domains from Alexa Top 1M
+# Top DNS providers in Russia used by RU domains from Alexa Top 1M
+```
+1. cloudflare.com
+2. nic.ru
+3. reg.ru
+4. yandex.net
+5. beget.ru
+6. timeweb.ru
+7. selectel.ru
+8. fastvps.ru
+9. r01.ru
+10. masterhost.ru
+11. ihc.ru
+12. cloudns.net
+13. webnames.ru
+```
 
 Nameservers rating lists ns_top10k.txt, ns_top100k.txt, ns_top1m.txt obtained as follows:
 ```
@@ -20,3 +34,5 @@ wget -q -O - https://raw.githubusercontent.com/dingzhaohan/alexa_top_1m/master/t
 m_v2.txt
 
 ```
+
+[Comparison table](https://docs.google.com/spreadsheets/d/1AIlKX6xdvqXKou6kzspskn4pfu8bo-oYan2JaN6PVbI/edit)
